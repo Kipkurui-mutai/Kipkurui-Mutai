@@ -9,7 +9,7 @@ I am a Data Analyst / Scientist predominantly writing Python and R. In my spare 
 
 
 
-[![Kipkurui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipkurui-mutai)](https://github.com/anuraghazra/github-readme-stats)
+[![Kipkurui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipkurui-mutai)](https://github.com/Kipkurui-mutai/github-readme-stats)
 
 
 
