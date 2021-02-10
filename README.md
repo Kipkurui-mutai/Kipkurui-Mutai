@@ -5,7 +5,7 @@
 
 Hello, I'm Kipkurui, welcome to my Github. What a pleasure it must be for you to see such beautiful code! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of.
 
-
+I am a Data Analyst / Scientist predominantly writing Python and R. In my spare time I do design websites using Wordpress.
 
 
 
