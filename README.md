@@ -14,7 +14,7 @@ I am a Data Analyst / Scientist predominantly writing Python and R. In my spare 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Kipkurui's GitHub Stats" src="https://github-readme-stats.kipkurui-mutai.vercel.app/api?username=/Kipkurui-mutai&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kipkurui's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=/Kipkurui-mutai&show_icons=true&hide_border=true" />
 
 </details>
 
