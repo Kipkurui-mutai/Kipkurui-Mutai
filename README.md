@@ -9,6 +9,20 @@ I am a Data Analyst / Scientist predominantly writing Python and R. In my spare 
 
 
 
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Kipkurui's GitHub Stats" src="https://github-readme-stats.kipkurui-mutai.vercel.app/api?username=/Kipkurui-mutai&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
+
+
+
 <!--
 **Kipkurui-mutai/Kipkurui-Mutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
