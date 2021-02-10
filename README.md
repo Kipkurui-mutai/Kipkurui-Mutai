@@ -3,6 +3,12 @@
 
 ### Hi there 👋
 
+Hello, I'm Kipkurui, welcome to my Github. What a pleasure it must be for you to see such beautiful code! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of.
+
+
+
+
+
 <!--
 **Kipkurui-mutai/Kipkurui-Mutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
