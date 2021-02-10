@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Do check me out on various platforms: 
+
+
+<a href="https://www.linkedin.com/in/kipkurui-mutai-3169301a7/">LinkedIn</a>  
+
