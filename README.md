@@ -27,4 +27,5 @@ Do check me out on various platforms:
 
 
 <a href="https://www.linkedin.com/in/kipkurui-mutai-3169301a7/">LinkedIn</a>  
+<a href="https://medium.com/@hpetes69">Medium</a> 
 
