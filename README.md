@@ -8,6 +8,8 @@ I'm Kipkurui, welcome to my Github. What a pleasure it must be for you to see su
 I am a Data Analyst / Scientist predominantly writing Python and R. In my spare time I do design websites using Wordpress.
 
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipkurui-mutai&show_icons=true&theme=radical)
 
 
