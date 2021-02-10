@@ -1,3 +1,6 @@
+![Internet not working gif](https://github.com/Kipkurui-mutai/Kipkurui-Mutai/blob/main/dino.gif)
+
+
 ### Hi there 👋
 
 <!--
