@@ -9,15 +9,7 @@ I am a Data Analyst / Scientist predominantly writing Python and R. In my spare 
 
 
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kipkurui's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=/Kipkurui-mutai&show_icons=true&hide_border=true" />
-
-</details>
-
+[![Kipkurui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipkurui-mutai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
