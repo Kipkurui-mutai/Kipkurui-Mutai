@@ -10,9 +10,6 @@ I am a Data Analyst / Scientist predominantly writing Python and R. In my spare 
 
 
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipkurui-mutai&show_icons=true&theme=radical)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kipkurui-mutai&layout=compact&theme=radical)](https://github.com/Kipkurui-mutai/github-readme-stats)
 
 <!--
